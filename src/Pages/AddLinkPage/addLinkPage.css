@@ -1,0 +1,59 @@
+.add-link-page-container {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.form {
+	display: flex;
+	flex-direction: column;
+}
+
+.back-title-container {
+	display: flex;
+	flex-direction: row;
+	margin-top: 20px;
+}
+
+.back-title-text {
+	margin-left: 5px;
+	color: black;
+	font-size: 15px;
+	font-weight: 700;
+}
+
+.add-new-title-text {
+	font-size: 25px;
+	color: black;
+	font-weight: 700;
+	margin: 40px 0;
+}
+
+.input-container {
+	display: flex;
+	flex-direction: column;
+	margin: 10px 0;
+	font-weight: 500;
+}
+
+.input {
+	width: 350px;
+	height: 40px;
+	padding-left: 10px;
+	border-radius: 10px;
+	border: 1px solid gray;
+}
+
+.add-button {
+	margin-top: 10px;
+	align-self: flex-end;
+	width: 100px;
+	height: 50px;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	border-radius: 50px;
+	border: 1px solid gray;
+}

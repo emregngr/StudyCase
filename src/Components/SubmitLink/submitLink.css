@@ -1,0 +1,18 @@
+.submit-link-container {
+	width: 350px;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+	background-color: rgb(243, 240, 240);
+	border: 1px solid rgb(216, 216, 216);
+}
+
+.add-container {
+	padding: 10px;
+	border-radius: 10px;
+	border: 1px solid gray;
+	margin-right: 20px;
+}
